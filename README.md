@@ -1,0 +1,2 @@
+# MemoCourses
+Privacy Policy page
